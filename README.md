@@ -1,7 +1,7 @@
 # smart_food_ui
 
 A new Flutter application.
-
+Flutter UI for a food ordering application in flutter, copied and edited
 ## Getting Started
 
 This project is a starting point for a Flutter application.
